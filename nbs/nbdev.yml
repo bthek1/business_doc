@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "business_doc"
+  site-url: "https://bthek1.github.io/business_doc"
+  description: "start up business stuff"
+  repo-branch: main
+  repo-url: "https://github.com/bthek1/business_doc"
